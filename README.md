@@ -101,4 +101,3 @@ https://github.com/user-attachments/assets/c4eef54d-e689-4bdd-981e-fafd2a080dd2
 
 **Fatima Ezzohra Ait Bella**
 
-Projet réalisé dans le cadre de l'évaluation.
